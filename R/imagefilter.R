@@ -5,7 +5,7 @@ if (!require("magick")) {
 library(magick)
 
 # Load image from URL
-image_path <- "https://raw.githubusercontent.com/ryuheum/group-assignment/main/image/Test.jpeg" #Change to location of your jpeg file
+image_path <- "https://raw.githubusercontent.com/ryuheum/imagefilter/main/Test.jpeg" #Change to location of your jpeg file
 my_image <- image_read(image_path)
 
 # Convert to bitmap
