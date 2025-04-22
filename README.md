@@ -18,7 +18,7 @@ Simply run the script to see the filters applied to the sample image (Test.jpeg)
 
 Run package by
 
-(1) open the script in R studion and click "Run"
+(1) open the script in R studio and click "Run"
 
 (2) Run directly from R console by using source()function
 
