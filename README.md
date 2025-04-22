@@ -22,4 +22,4 @@ Run package by
 
 (2) Run directly from R console by using source()function
 
-source("path/to/imagefilter.R")
+source ("path/to/imagefilter.R")
